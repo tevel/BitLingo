@@ -4,8 +4,8 @@
 
 ### Links
 
-- Website: [https://BitLingo.app](https://BitLingo.app)
-- Blog: [https://BitLingo.app/blog](https://BitLingo.app/blog) 
+- Website: [bitLingo.app](https://bitLingo.app)
+- Blog: [bitLingo.app/blog](https://bitLingo.app/blog) 
 
 **BitLingo** is an audio-first language learning app built for real life: driving, walking, workouts, and any moment when your hands or eyes are busy.  
 Instead of flashcards you have to stare at, BitLingo helps you practice vocabulary and phrases through continuous spoken repetition.
