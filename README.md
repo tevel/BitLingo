@@ -1,10 +1,10 @@
 # BitLingo 🎧
 
-![BitLingo App Icon](./favicon-512x512.png)
+![BitLingo App Icon](./pwa-192x192.png)
 
 ## BitLingo - Learn Languages On The Go | Audio Vocabulary App
 
-![BitLingo Home Screen](./home.png)
+![BitLingo Home Screen](./IMG_3502.jpeg)
 
 ### Links
 
