@@ -1,12 +1,12 @@
-# BitLingo 🎧
+# <img src="/pwa-192x192.png" alt="BitLingo App Icon" width="28" /> BitLingo - Learn Languages On The Go | Audio Vocabulary App
 
-![BitLingo App Icon](./pwa-192x192.png)
+<a href="https://BitLingo.app" target="_blank" rel="noopener noreferrer">
+  <img src="./IMG_3502.jpeg" alt="BitLingo screenshot" width="240" />
+</a>    
 
-## BitLingo - Learn Languages On The Go | Audio Vocabulary App
+----------------
 
-![BitLingo Home Screen](./IMG_3502.jpeg)
-
-### Links
+## BitLingo Links
 
 - 🌍 Website: [BitLingo.app](https://BitLingo.app)
 - 📝 Blog: [BitLingo.app/blog](https://BitLingo.app/blog) 
